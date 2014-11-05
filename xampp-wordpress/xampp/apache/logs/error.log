@@ -1,0 +1,654 @@
+[Thu Sep 11 09:34:23 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Sep 11 09:34:23 2014] [notice] Digest: done
+[Thu Sep 11 09:34:26 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Thu Sep 11 09:34:26 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Thu Sep 11 09:34:26 2014] [notice] Parent: Created child process 5072
+[Thu Sep 11 09:34:28 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Sep 11 09:34:28 2014] [notice] Digest: done
+[Thu Sep 11 09:34:29 2014] [notice] Child 5072: Child process is running
+[Thu Sep 11 09:34:29 2014] [notice] Child 5072: Acquired the start mutex.
+[Thu Sep 11 09:34:29 2014] [notice] Child 5072: Starting 150 worker threads.
+[Thu Sep 11 09:34:29 2014] [notice] Child 5072: Starting thread to listen on port 443.
+[Thu Sep 11 09:34:29 2014] [notice] Child 5072: Starting thread to listen on port 443.
+[Thu Sep 11 09:34:29 2014] [notice] Child 5072: Starting thread to listen on port 80.
+[Thu Sep 11 09:34:29 2014] [notice] Child 5072: Starting thread to listen on port 80.
+[Thu Sep 11 09:34:32 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Sep 11 09:34:33 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Sep 11 09:52:16 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 11 09:52:16 2014] [notice] Child 5072: Exit event signaled. Child process is ending.
+[Thu Sep 11 09:52:17 2014] [notice] Child 5072: Released the start mutex
+[Thu Sep 11 09:52:18 2014] [notice] Child 5072: All worker threads have exited.
+[Thu Sep 11 09:52:18 2014] [notice] Child 5072: Child process is exiting
+[Thu Sep 11 09:52:19 2014] [notice] Parent: Child process exited successfully.
+[Thu Sep 18 08:45:23 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Sep 18 08:45:23 2014] [notice] Digest: done
+[Thu Sep 18 08:45:26 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Thu Sep 18 08:45:26 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Thu Sep 18 08:45:26 2014] [notice] Parent: Created child process 1004
+[Thu Sep 18 08:45:27 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Sep 18 08:45:27 2014] [notice] Digest: done
+[Thu Sep 18 08:45:28 2014] [notice] Child 1004: Child process is running
+[Thu Sep 18 08:45:28 2014] [notice] Child 1004: Acquired the start mutex.
+[Thu Sep 18 08:45:28 2014] [notice] Child 1004: Starting 150 worker threads.
+[Thu Sep 18 08:45:28 2014] [notice] Child 1004: Starting thread to listen on port 443.
+[Thu Sep 18 08:45:28 2014] [notice] Child 1004: Starting thread to listen on port 80.
+[Thu Sep 18 08:45:28 2014] [notice] Child 1004: Starting thread to listen on port 443.
+[Thu Sep 18 08:45:28 2014] [notice] Child 1004: Starting thread to listen on port 80.
+[Thu Sep 18 08:47:01 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Sep 18 08:47:09 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Sep 18 08:47:12 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Sep 18 08:47:16 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Sep 18 09:22:11 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Sep 18 09:22:11 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Sep 18 09:22:13 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/Webtech/coursework/Chapter05/chapter4.css, referer: http://localhost/webtech/coursework/Chapter05/travel.html
+[Thu Sep 18 09:36:30 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/Webtech/coursework/Chapter05/aoftwareorder.html
+[Thu Sep 18 09:41:12 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/Webtech/coursework/Chapter05/chapter4.css, referer: http://localhost/webtech/coursework/Chapter05/travel.html
+[Thu Sep 18 09:48:06 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 18 09:48:06 2014] [notice] Child 1004: Exit event signaled. Child process is ending.
+[Thu Sep 18 09:48:07 2014] [notice] Child 1004: Released the start mutex
+[Thu Sep 18 09:48:08 2014] [notice] Child 1004: All worker threads have exited.
+[Thu Sep 18 09:48:08 2014] [notice] Child 1004: Child process is exiting
+[Thu Sep 18 09:48:08 2014] [notice] Parent: Child process exited successfully.
+[Tue Sep 23 08:10:50 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Sep 23 08:10:50 2014] [notice] Digest: done
+[Tue Sep 23 08:10:53 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Tue Sep 23 08:10:53 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Tue Sep 23 08:10:53 2014] [notice] Parent: Created child process 3024
+[Tue Sep 23 08:10:54 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Sep 23 08:10:54 2014] [notice] Digest: done
+[Tue Sep 23 08:10:54 2014] [notice] Child 3024: Child process is running
+[Tue Sep 23 08:10:54 2014] [notice] Child 3024: Acquired the start mutex.
+[Tue Sep 23 08:10:54 2014] [notice] Child 3024: Starting 150 worker threads.
+[Tue Sep 23 08:10:54 2014] [notice] Child 3024: Starting thread to listen on port 443.
+[Tue Sep 23 08:10:54 2014] [notice] Child 3024: Starting thread to listen on port 443.
+[Tue Sep 23 08:10:54 2014] [notice] Child 3024: Starting thread to listen on port 80.
+[Tue Sep 23 08:10:54 2014] [notice] Child 3024: Starting thread to listen on port 80.
+[Tue Sep 23 08:56:24 2014] [error] [client ::1] File does not exist: E:/xampplite/htdocs/favicon.ico
+[Tue Sep 23 08:56:24 2014] [error] [client ::1] File does not exist: E:/xampplite/htdocs/favicon.ico
+[Tue Sep 23 09:53:13 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 23 09:53:13 2014] [notice] Child 3024: Exit event signaled. Child process is ending.
+[Tue Sep 23 09:53:14 2014] [notice] Child 3024: Released the start mutex
+[Tue Sep 23 09:53:15 2014] [notice] Child 3024: All worker threads have exited.
+[Tue Sep 23 09:53:15 2014] [notice] Child 3024: Child process is exiting
+[Tue Sep 23 09:53:15 2014] [notice] Parent: Child process exited successfully.
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address [::]:443
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address 0.0.0.0:443
+no listening sockets available, shutting down
+Unable to open logs
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address [::]:443
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address 0.0.0.0:443
+no listening sockets available, shutting down
+Unable to open logs
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address [::]:443
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address 0.0.0.0:443
+no listening sockets available, shutting down
+Unable to open logs
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address [::]:443
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address 0.0.0.0:443
+no listening sockets available, shutting down
+Unable to open logs
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address [::]:443
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address 0.0.0.0:443
+no listening sockets available, shutting down
+Unable to open logs
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address [::]:443
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address 0.0.0.0:443
+no listening sockets available, shutting down
+Unable to open logs
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address [::]:443
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address 0.0.0.0:443
+no listening sockets available, shutting down
+Unable to open logs
+[Tue Sep 23 15:06:42 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Sep 23 15:06:42 2014] [notice] Digest: done
+[Tue Sep 23 15:06:46 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Tue Sep 23 15:06:46 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Tue Sep 23 15:06:46 2014] [notice] Parent: Created child process 3976
+[Tue Sep 23 15:06:47 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Sep 23 15:06:47 2014] [notice] Digest: done
+[Tue Sep 23 15:06:48 2014] [notice] Child 3976: Child process is running
+[Tue Sep 23 15:06:48 2014] [notice] Child 3976: Acquired the start mutex.
+[Tue Sep 23 15:06:48 2014] [notice] Child 3976: Starting 150 worker threads.
+[Tue Sep 23 15:06:48 2014] [notice] Child 3976: Starting thread to listen on port 443.
+[Tue Sep 23 15:06:48 2014] [notice] Child 3976: Starting thread to listen on port 80.
+[Tue Sep 23 15:06:48 2014] [notice] Child 3976: Starting thread to listen on port 443.
+[Tue Sep 23 15:06:48 2014] [notice] Child 3976: Starting thread to listen on port 80.
+[Tue Sep 23 15:07:48 2014] [error] [client ::1] File does not exist: J:/xampplite/htdocs/favicon.ico
+[Tue Sep 23 15:58:13 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 23 15:58:13 2014] [notice] Child 3976: Exit event signaled. Child process is ending.
+[Tue Sep 23 15:58:14 2014] [notice] Child 3976: Released the start mutex
+[Tue Sep 23 15:58:15 2014] [notice] Child 3976: All worker threads have exited.
+[Tue Sep 23 15:58:15 2014] [notice] Child 3976: Child process is exiting
+[Tue Sep 23 15:58:16 2014] [notice] Parent: Child process exited successfully.
+[Thu Sep 25 08:12:09 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Sep 25 08:12:09 2014] [notice] Digest: done
+[Thu Sep 25 08:12:15 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Thu Sep 25 08:12:15 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Thu Sep 25 08:12:15 2014] [notice] Parent: Created child process 1180
+[Thu Sep 25 08:12:16 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Sep 25 08:12:16 2014] [notice] Digest: done
+[Thu Sep 25 08:12:17 2014] [notice] Child 1180: Child process is running
+[Thu Sep 25 08:12:17 2014] [notice] Child 1180: Acquired the start mutex.
+[Thu Sep 25 08:12:17 2014] [notice] Child 1180: Starting 150 worker threads.
+[Thu Sep 25 08:12:17 2014] [notice] Child 1180: Starting thread to listen on port 443.
+[Thu Sep 25 08:12:17 2014] [notice] Child 1180: Starting thread to listen on port 80.
+[Thu Sep 25 08:12:17 2014] [notice] Child 1180: Starting thread to listen on port 443.
+[Thu Sep 25 08:12:17 2014] [notice] Child 1180: Starting thread to listen on port 80.
+[Thu Sep 25 08:12:28 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Sep 25 08:12:28 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Sep 25 08:31:47 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Sep 25 08:31:47 2014] [notice] Child 1180: Exit event signaled. Child process is ending.
+[Thu Sep 25 08:31:48 2014] [notice] Child 1180: Released the start mutex
+[Thu Sep 25 08:31:49 2014] [notice] Child 1180: All worker threads have exited.
+[Thu Sep 25 08:31:49 2014] [notice] Child 1180: Child process is exiting
+[Thu Sep 25 08:31:50 2014] [notice] Parent: Child process exited successfully.
+[Tue Sep 30 08:01:41 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Sep 30 08:01:41 2014] [notice] Digest: done
+[Tue Sep 30 08:01:42 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Tue Sep 30 08:01:42 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Tue Sep 30 08:01:42 2014] [notice] Parent: Created child process 788
+[Tue Sep 30 08:01:43 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Sep 30 08:01:43 2014] [notice] Digest: done
+[Tue Sep 30 08:01:43 2014] [notice] Child 788: Child process is running
+[Tue Sep 30 08:01:43 2014] [notice] Child 788: Acquired the start mutex.
+[Tue Sep 30 08:01:43 2014] [notice] Child 788: Starting 150 worker threads.
+[Tue Sep 30 08:01:43 2014] [notice] Child 788: Starting thread to listen on port 443.
+[Tue Sep 30 08:01:43 2014] [notice] Child 788: Starting thread to listen on port 443.
+[Tue Sep 30 08:01:43 2014] [notice] Child 788: Starting thread to listen on port 80.
+[Tue Sep 30 08:01:43 2014] [notice] Child 788: Starting thread to listen on port 80.
+[Tue Sep 30 09:06:06 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Tue Sep 30 09:06:06 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Tue Sep 30 09:22:06 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Sep 30 09:22:06 2014] [notice] Child 788: Exit event signaled. Child process is ending.
+[Tue Sep 30 09:22:07 2014] [notice] Child 788: Released the start mutex
+[Tue Sep 30 09:22:08 2014] [notice] Child 788: All worker threads have exited.
+[Tue Sep 30 09:22:08 2014] [notice] Child 788: Child process is exiting
+[Tue Sep 30 09:22:08 2014] [notice] Parent: Child process exited successfully.
+[Thu Oct 02 08:39:02 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 02 08:39:02 2014] [notice] Digest: done
+[Thu Oct 02 08:39:02 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Thu Oct 02 08:39:02 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Thu Oct 02 08:39:02 2014] [notice] Parent: Created child process 5400
+[Thu Oct 02 08:39:03 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 02 08:39:03 2014] [notice] Digest: done
+[Thu Oct 02 08:39:03 2014] [notice] Child 5400: Child process is running
+[Thu Oct 02 08:39:03 2014] [notice] Child 5400: Acquired the start mutex.
+[Thu Oct 02 08:39:03 2014] [notice] Child 5400: Starting 150 worker threads.
+[Thu Oct 02 08:39:03 2014] [notice] Child 5400: Starting thread to listen on port 443.
+[Thu Oct 02 08:39:03 2014] [notice] Child 5400: Starting thread to listen on port 443.
+[Thu Oct 02 08:39:03 2014] [notice] Child 5400: Starting thread to listen on port 80.
+[Thu Oct 02 08:39:03 2014] [notice] Child 5400: Starting thread to listen on port 80.
+[Thu Oct 02 08:41:17 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Oct 02 08:41:17 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Oct 02 09:48:21 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 02 09:48:21 2014] [notice] Child 5400: Exit event signaled. Child process is ending.
+[Thu Oct 02 09:48:22 2014] [notice] Child 5400: Released the start mutex
+[Thu Oct 02 09:48:23 2014] [notice] Child 5400: All worker threads have exited.
+[Thu Oct 02 09:48:23 2014] [notice] Child 5400: Child process is exiting
+[Thu Oct 02 09:48:23 2014] [notice] Parent: Child process exited successfully.
+[Tue Oct 07 08:08:13 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 07 08:08:13 2014] [notice] Digest: done
+[Tue Oct 07 08:08:14 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Tue Oct 07 08:08:14 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Tue Oct 07 08:08:14 2014] [notice] Parent: Created child process 3612
+[Tue Oct 07 08:08:14 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 07 08:08:14 2014] [notice] Digest: done
+[Tue Oct 07 08:08:15 2014] [notice] Child 3612: Child process is running
+[Tue Oct 07 08:08:15 2014] [notice] Child 3612: Acquired the start mutex.
+[Tue Oct 07 08:08:15 2014] [notice] Child 3612: Starting 150 worker threads.
+[Tue Oct 07 08:08:15 2014] [notice] Child 3612: Starting thread to listen on port 443.
+[Tue Oct 07 08:08:15 2014] [notice] Child 3612: Starting thread to listen on port 443.
+[Tue Oct 07 08:08:15 2014] [notice] Child 3612: Starting thread to listen on port 80.
+[Tue Oct 07 08:08:15 2014] [notice] Child 3612: Starting thread to listen on port 80.
+[Tue Oct 07 08:08:36 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Tue Oct 07 08:08:36 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Tue Oct 07 09:52:11 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 07 09:52:11 2014] [notice] Child 3612: Exit event signaled. Child process is ending.
+[Tue Oct 07 09:52:12 2014] [notice] Child 3612: Released the start mutex
+[Tue Oct 07 09:52:13 2014] [notice] Child 3612: All worker threads have exited.
+[Tue Oct 07 09:52:13 2014] [notice] Child 3612: Child process is exiting
+[Tue Oct 07 09:52:13 2014] [notice] Parent: Child process exited successfully.
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address [::]:443
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address 0.0.0.0:443
+no listening sockets available, shutting down
+Unable to open logs
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address [::]:443
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address 0.0.0.0:443
+no listening sockets available, shutting down
+Unable to open logs
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address [::]:443
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address 0.0.0.0:443
+no listening sockets available, shutting down
+Unable to open logs
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address [::]:443
+(OS 10048)Only one usage of each socket address (protocol/network address/port) is normally permitted.  : make_sock: could not bind to address 0.0.0.0:443
+no listening sockets available, shutting down
+Unable to open logs
+[Wed Oct 08 08:04:05 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Oct 08 08:04:05 2014] [notice] Digest: done
+[Wed Oct 08 08:04:05 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Wed Oct 08 08:04:05 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Wed Oct 08 08:04:05 2014] [notice] Parent: Created child process 3424
+[Wed Oct 08 08:04:06 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Oct 08 08:04:06 2014] [notice] Digest: done
+[Wed Oct 08 08:04:06 2014] [notice] Child 3424: Child process is running
+[Wed Oct 08 08:04:06 2014] [notice] Child 3424: Acquired the start mutex.
+[Wed Oct 08 08:04:06 2014] [notice] Child 3424: Starting 150 worker threads.
+[Wed Oct 08 08:04:06 2014] [notice] Child 3424: Starting thread to listen on port 443.
+[Wed Oct 08 08:04:06 2014] [notice] Child 3424: Starting thread to listen on port 80.
+[Wed Oct 08 08:04:06 2014] [notice] Child 3424: Starting thread to listen on port 443.
+[Wed Oct 08 08:04:06 2014] [notice] Child 3424: Starting thread to listen on port 80.
+[Wed Oct 08 08:04:26 2014] [error] [client ::1] File does not exist: E:/xampplite/htdocs/Webtech/coursework.chapter08
+[Wed Oct 08 08:04:26 2014] [error] [client ::1] File does not exist: E:/xampplite/htdocs/favicon.ico
+[Wed Oct 08 08:04:26 2014] [error] [client ::1] File does not exist: E:/xampplite/htdocs/favicon.ico
+[Wed Oct 08 10:09:56 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Oct 08 10:09:56 2014] [notice] Child 3424: Exit event signaled. Child process is ending.
+[Wed Oct 08 10:09:57 2014] [notice] Child 3424: Released the start mutex
+[Wed Oct 08 10:09:58 2014] [notice] Child 3424: All worker threads have exited.
+[Wed Oct 08 10:09:58 2014] [notice] Child 3424: Child process is exiting
+[Wed Oct 08 10:09:58 2014] [notice] Parent: Child process exited successfully.
+[Thu Oct 09 08:11:07 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 09 08:11:07 2014] [notice] Digest: done
+[Thu Oct 09 08:11:08 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Thu Oct 09 08:11:08 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Thu Oct 09 08:11:08 2014] [notice] Parent: Created child process 3904
+[Thu Oct 09 08:11:09 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 09 08:11:09 2014] [notice] Digest: done
+[Thu Oct 09 08:11:09 2014] [notice] Child 3904: Child process is running
+[Thu Oct 09 08:11:09 2014] [notice] Child 3904: Acquired the start mutex.
+[Thu Oct 09 08:11:09 2014] [notice] Child 3904: Starting 150 worker threads.
+[Thu Oct 09 08:11:09 2014] [notice] Child 3904: Starting thread to listen on port 443.
+[Thu Oct 09 08:11:09 2014] [notice] Child 3904: Starting thread to listen on port 80.
+[Thu Oct 09 08:11:09 2014] [notice] Child 3904: Starting thread to listen on port 443.
+[Thu Oct 09 08:11:09 2014] [notice] Child 3904: Starting thread to listen on port 80.
+[Thu Oct 09 08:26:59 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Oct 09 08:26:59 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Oct 09 09:27:26 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 09 09:27:26 2014] [notice] Child 3904: Exit event signaled. Child process is ending.
+[Thu Oct 09 09:27:27 2014] [notice] Child 3904: Released the start mutex
+[Thu Oct 09 09:27:28 2014] [notice] Child 3904: All worker threads have exited.
+[Thu Oct 09 09:27:28 2014] [notice] Child 3904: Child process is exiting
+[Thu Oct 09 09:27:28 2014] [notice] Parent: Child process exited successfully.
+[Thu Oct 16 08:00:28 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 16 08:00:28 2014] [notice] Digest: done
+[Thu Oct 16 08:00:29 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Thu Oct 16 08:00:29 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Thu Oct 16 08:00:29 2014] [notice] Parent: Created child process 3904
+[Thu Oct 16 08:00:30 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 16 08:00:30 2014] [notice] Digest: done
+[Thu Oct 16 08:00:30 2014] [notice] Child 3904: Child process is running
+[Thu Oct 16 08:00:30 2014] [notice] Child 3904: Acquired the start mutex.
+[Thu Oct 16 08:00:30 2014] [notice] Child 3904: Starting 150 worker threads.
+[Thu Oct 16 08:00:30 2014] [notice] Child 3904: Starting thread to listen on port 443.
+[Thu Oct 16 08:00:30 2014] [notice] Child 3904: Starting thread to listen on port 443.
+[Thu Oct 16 08:00:30 2014] [notice] Child 3904: Starting thread to listen on port 80.
+[Thu Oct 16 08:00:30 2014] [notice] Child 3904: Starting thread to listen on port 80.
+[Thu Oct 16 08:22:32 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Oct 16 08:22:32 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Oct 16 08:22:32 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Oct 16 09:51:54 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 16 09:51:54 2014] [notice] Child 3904: Exit event signaled. Child process is ending.
+[Thu Oct 16 09:51:55 2014] [notice] Child 3904: Released the start mutex
+[Thu Oct 16 09:51:56 2014] [notice] Child 3904: All worker threads have exited.
+[Thu Oct 16 09:51:56 2014] [notice] Child 3904: Child process is exiting
+[Thu Oct 16 09:51:56 2014] [notice] Parent: Child process exited successfully.
+[Tue Oct 21 08:27:25 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 21 08:27:25 2014] [notice] Digest: done
+[Tue Oct 21 08:27:26 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Tue Oct 21 08:27:26 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Tue Oct 21 08:27:26 2014] [notice] Parent: Created child process 4384
+[Tue Oct 21 08:27:27 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 21 08:27:27 2014] [notice] Digest: done
+[Tue Oct 21 08:27:27 2014] [notice] Child 4384: Child process is running
+[Tue Oct 21 08:27:27 2014] [notice] Child 4384: Acquired the start mutex.
+[Tue Oct 21 08:27:27 2014] [notice] Child 4384: Starting 150 worker threads.
+[Tue Oct 21 08:27:27 2014] [notice] Child 4384: Starting thread to listen on port 443.
+[Tue Oct 21 08:27:27 2014] [notice] Child 4384: Starting thread to listen on port 80.
+[Tue Oct 21 08:27:27 2014] [notice] Child 4384: Starting thread to listen on port 443.
+[Tue Oct 21 08:27:27 2014] [notice] Child 4384: Starting thread to listen on port 80.
+[Tue Oct 21 08:56:16 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Tue Oct 21 08:56:16 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Tue Oct 21 08:56:16 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Tue Oct 21 09:47:44 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 21 09:47:44 2014] [notice] Child 4384: Exit event signaled. Child process is ending.
+[Tue Oct 21 09:47:45 2014] [notice] Child 4384: Released the start mutex
+[Tue Oct 21 09:47:46 2014] [notice] Child 4384: All worker threads have exited.
+[Tue Oct 21 09:47:46 2014] [notice] Child 4384: Child process is exiting
+[Tue Oct 21 09:47:46 2014] [notice] Parent: Child process exited successfully.
+[Thu Oct 23 08:02:55 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 23 08:02:55 2014] [notice] Digest: done
+[Thu Oct 23 08:02:56 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Thu Oct 23 08:02:56 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Thu Oct 23 08:02:56 2014] [notice] Parent: Created child process 3888
+[Thu Oct 23 08:02:57 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 23 08:02:57 2014] [notice] Digest: done
+[Thu Oct 23 08:02:58 2014] [notice] Child 3888: Child process is running
+[Thu Oct 23 08:02:58 2014] [notice] Child 3888: Acquired the start mutex.
+[Thu Oct 23 08:02:58 2014] [notice] Child 3888: Starting 150 worker threads.
+[Thu Oct 23 08:02:58 2014] [notice] Child 3888: Starting thread to listen on port 443.
+[Thu Oct 23 08:02:58 2014] [notice] Child 3888: Starting thread to listen on port 80.
+[Thu Oct 23 08:02:58 2014] [notice] Child 3888: Starting thread to listen on port 443.
+[Thu Oct 23 08:02:58 2014] [notice] Child 3888: Starting thread to listen on port 80.
+[Thu Oct 23 09:47:11 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 23 09:47:11 2014] [notice] Child 3888: Exit event signaled. Child process is ending.
+[Thu Oct 23 09:47:12 2014] [notice] Child 3888: Released the start mutex
+[Thu Oct 23 09:47:13 2014] [notice] Child 3888: All worker threads have exited.
+[Thu Oct 23 09:47:13 2014] [notice] Child 3888: Child process is exiting
+[Thu Oct 23 09:47:13 2014] [notice] Parent: Child process exited successfully.
+[Thu Oct 23 09:50:14 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 23 09:50:14 2014] [notice] Digest: done
+[Thu Oct 23 09:50:14 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Thu Oct 23 09:50:14 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Thu Oct 23 09:50:14 2014] [notice] Parent: Created child process 4524
+[Thu Oct 23 09:50:15 2014] [notice] Digest: generating secret for digest authentication ...
+[Thu Oct 23 09:50:15 2014] [notice] Digest: done
+[Thu Oct 23 09:50:15 2014] [notice] Child 4524: Child process is running
+[Thu Oct 23 09:50:15 2014] [notice] Child 4524: Acquired the start mutex.
+[Thu Oct 23 09:50:15 2014] [notice] Child 4524: Starting 150 worker threads.
+[Thu Oct 23 09:50:15 2014] [notice] Child 4524: Starting thread to listen on port 443.
+[Thu Oct 23 09:50:15 2014] [notice] Child 4524: Starting thread to listen on port 443.
+[Thu Oct 23 09:50:15 2014] [notice] Child 4524: Starting thread to listen on port 80.
+[Thu Oct 23 09:50:15 2014] [notice] Child 4524: Starting thread to listen on port 80.
+[Thu Oct 23 09:51:17 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Oct 23 09:51:17 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Oct 23 09:51:17 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/favicon.ico
+[Thu Oct 23 09:55:03 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Thu Oct 23 09:55:03 2014] [notice] Child 4524: Exit event signaled. Child process is ending.
+[Thu Oct 23 09:55:04 2014] [notice] Child 4524: Released the start mutex
+[Thu Oct 23 09:55:05 2014] [notice] Child 4524: All worker threads have exited.
+[Thu Oct 23 09:55:05 2014] [notice] Child 4524: Child process is exiting
+[Thu Oct 23 09:55:05 2014] [notice] Parent: Child process exited successfully.
+[Mon Oct 27 08:28:18 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Oct 27 08:28:18 2014] [notice] Digest: done
+[Mon Oct 27 08:28:19 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Mon Oct 27 08:28:19 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Mon Oct 27 08:28:19 2014] [notice] Parent: Created child process 2480
+[Mon Oct 27 08:28:20 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Oct 27 08:28:20 2014] [notice] Digest: done
+[Mon Oct 27 08:28:20 2014] [notice] Child 2480: Child process is running
+[Mon Oct 27 08:28:20 2014] [notice] Child 2480: Acquired the start mutex.
+[Mon Oct 27 08:28:20 2014] [notice] Child 2480: Starting 150 worker threads.
+[Mon Oct 27 08:28:20 2014] [notice] Child 2480: Starting thread to listen on port 443.
+[Mon Oct 27 08:28:20 2014] [notice] Child 2480: Starting thread to listen on port 443.
+[Mon Oct 27 08:28:20 2014] [notice] Child 2480: Starting thread to listen on port 80.
+[Mon Oct 27 08:28:20 2014] [notice] Child 2480: Starting thread to listen on port 80.
+[Mon Oct 27 08:28:25 2014] [error] [client ::1] client denied by server configuration: E:/coursework/
+[Mon Oct 27 08:28:25 2014] [error] [client ::1] client denied by server configuration: E:/coursework/favicon.ico
+[Mon Oct 27 08:28:25 2014] [error] [client ::1] client denied by server configuration: E:/coursework/favicon.ico
+[Mon Oct 27 08:28:42 2014] [error] [client ::1] client denied by server configuration: E:/coursework/coursework
+[Mon Oct 27 08:28:52 2014] [error] [client ::1] client denied by server configuration: E:/coursework/Chapter01
+[Mon Oct 27 08:29:16 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 27 08:29:16 2014] [notice] Child 2480: Exit event signaled. Child process is ending.
+[Mon Oct 27 08:29:17 2014] [notice] Child 2480: Released the start mutex
+[Mon Oct 27 08:29:18 2014] [notice] Child 2480: All worker threads have exited.
+[Mon Oct 27 08:29:18 2014] [notice] Child 2480: Child process is exiting
+[Mon Oct 27 08:29:18 2014] [notice] Parent: Child process exited successfully.
+Syntax error on line 188 of E:/xampplite/apache/conf/httpd.conf:
+DocumentRoot must be a directory
+Syntax error on line 188 of E:/xampplite/apache/conf/httpd.conf:
+DocumentRoot must be a directory
+[Mon Oct 27 08:31:24 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Oct 27 08:31:24 2014] [notice] Digest: done
+[Mon Oct 27 08:31:24 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Mon Oct 27 08:31:24 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Mon Oct 27 08:31:24 2014] [notice] Parent: Created child process 4244
+[Mon Oct 27 08:31:24 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Oct 27 08:31:24 2014] [notice] Digest: done
+[Mon Oct 27 08:31:24 2014] [notice] Child 4244: Child process is running
+[Mon Oct 27 08:31:24 2014] [notice] Child 4244: Acquired the start mutex.
+[Mon Oct 27 08:31:24 2014] [notice] Child 4244: Starting 150 worker threads.
+[Mon Oct 27 08:31:24 2014] [notice] Child 4244: Starting thread to listen on port 443.
+[Mon Oct 27 08:31:24 2014] [notice] Child 4244: Starting thread to listen on port 443.
+[Mon Oct 27 08:31:24 2014] [notice] Child 4244: Starting thread to listen on port 80.
+[Mon Oct 27 08:31:24 2014] [notice] Child 4244: Starting thread to listen on port 80.
+[Mon Oct 27 08:31:29 2014] [error] [client ::1] File does not exist: E:/xampplite/htdocs/Webtech/coursework/favicon.ico
+[Mon Oct 27 08:31:29 2014] [error] [client ::1] File does not exist: E:/xampplite/htdocs/Webtech/coursework/favicon.ico
+[Mon Oct 27 08:31:29 2014] [error] [client ::1] File does not exist: E:/xampplite/htdocs/Webtech/coursework/favicon.ico
+[Mon Oct 27 09:55:45 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Oct 27 09:55:45 2014] [notice] Child 4244: Exit event signaled. Child process is ending.
+[Mon Oct 27 09:55:46 2014] [notice] Child 4244: Released the start mutex
+[Mon Oct 27 09:55:47 2014] [notice] Child 4244: All worker threads have exited.
+[Mon Oct 27 09:55:47 2014] [notice] Child 4244: Child process is exiting
+[Mon Oct 27 09:55:47 2014] [notice] Parent: Child process exited successfully.
+[Tue Oct 28 08:09:27 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 28 08:09:27 2014] [notice] Digest: done
+[Tue Oct 28 08:09:28 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Tue Oct 28 08:09:28 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Tue Oct 28 08:09:28 2014] [notice] Parent: Created child process 3488
+[Tue Oct 28 08:09:29 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Oct 28 08:09:29 2014] [notice] Digest: done
+[Tue Oct 28 08:09:29 2014] [notice] Child 3488: Child process is running
+[Tue Oct 28 08:09:29 2014] [notice] Child 3488: Acquired the start mutex.
+[Tue Oct 28 08:09:29 2014] [notice] Child 3488: Starting 150 worker threads.
+[Tue Oct 28 08:09:29 2014] [notice] Child 3488: Starting thread to listen on port 443.
+[Tue Oct 28 08:09:29 2014] [notice] Child 3488: Starting thread to listen on port 80.
+[Tue Oct 28 08:09:29 2014] [notice] Child 3488: Starting thread to listen on port 443.
+[Tue Oct 28 08:09:29 2014] [notice] Child 3488: Starting thread to listen on port 80.
+[Tue Oct 28 08:24:46 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/Webtech/coursework/favicon.ico
+[Tue Oct 28 08:24:46 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/Webtech/coursework/favicon.ico
+[Tue Oct 28 08:24:46 2014] [error] [client ::1] File does not exist: I:/xampplite/htdocs/Webtech/coursework/favicon.ico
+[Tue Oct 28 09:38:37 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Tue Oct 28 09:38:37 2014] [notice] Child 3488: Exit event signaled. Child process is ending.
+[Tue Oct 28 09:38:38 2014] [notice] Child 3488: Released the start mutex
+[Tue Oct 28 09:38:39 2014] [notice] Child 3488: All worker threads have exited.
+[Tue Oct 28 09:38:39 2014] [notice] Child 3488: Child process is exiting
+[Tue Oct 28 09:38:39 2014] [notice] Parent: Child process exited successfully.
+[Mon Nov 03 11:11:18 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 03 11:11:18 2014] [notice] Digest: done
+[Mon Nov 03 11:11:23 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Mon Nov 03 11:11:23 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Mon Nov 03 11:11:23 2014] [notice] Parent: Created child process 4244
+[Mon Nov 03 11:11:24 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 03 11:11:24 2014] [notice] Digest: done
+[Mon Nov 03 11:11:24 2014] [notice] Child 4244: Child process is running
+[Mon Nov 03 11:11:24 2014] [notice] Child 4244: Acquired the start mutex.
+[Mon Nov 03 11:11:24 2014] [notice] Child 4244: Starting 150 worker threads.
+[Mon Nov 03 11:11:24 2014] [notice] Child 4244: Starting thread to listen on port 443.
+[Mon Nov 03 11:11:24 2014] [notice] Child 4244: Starting thread to listen on port 80.
+[Mon Nov 03 11:11:24 2014] [notice] Child 4244: Starting thread to listen on port 443.
+[Mon Nov 03 11:11:24 2014] [notice] Child 4244: Starting thread to listen on port 80.
+[Mon Nov 03 11:11:29 2014] [error] [client ::1] File does not exist: J:/xampplite/htdocs/Webtech/coursework/myphpadmin
+[Mon Nov 03 11:11:30 2014] [error] [client ::1] File does not exist: J:/xampplite/htdocs/Webtech/coursework/favicon.ico
+[Mon Nov 03 11:11:30 2014] [error] [client ::1] File does not exist: J:/xampplite/htdocs/Webtech/coursework/favicon.ico
+[Mon Nov 03 11:11:30 2014] [error] [client ::1] File does not exist: J:/xampplite/htdocs/Webtech/coursework/favicon.ico
+[Mon Nov 03 11:16:06 2014] [error] [client ::1] File does not exist: J:/xampplite/htdocs/Webtech/coursework/wordpress
+[Mon Nov 03 11:16:11 2014] [error] [client ::1] File does not exist: J:/xampplite/htdocs/Webtech/coursework/wordpress
+[Mon Nov 03 11:16:25 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 03 11:16:25 2014] [notice] Child 4244: Exit event signaled. Child process is ending.
+[Mon Nov 03 11:16:26 2014] [notice] Child 4244: Released the start mutex
+[Mon Nov 03 11:16:27 2014] [notice] Child 4244: All worker threads have exited.
+[Mon Nov 03 11:16:27 2014] [notice] Child 4244: Child process is exiting
+[Mon Nov 03 11:16:27 2014] [notice] Parent: Child process exited successfully.
+[Mon Nov 03 11:16:30 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 03 11:16:30 2014] [notice] Digest: done
+[Mon Nov 03 11:16:31 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Mon Nov 03 11:16:31 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Mon Nov 03 11:16:31 2014] [notice] Parent: Created child process 3444
+[Mon Nov 03 11:16:31 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 03 11:16:31 2014] [notice] Digest: done
+[Mon Nov 03 11:16:32 2014] [notice] Child 3444: Child process is running
+[Mon Nov 03 11:16:32 2014] [notice] Child 3444: Acquired the start mutex.
+[Mon Nov 03 11:16:32 2014] [notice] Child 3444: Starting 150 worker threads.
+[Mon Nov 03 11:16:32 2014] [notice] Child 3444: Starting thread to listen on port 443.
+[Mon Nov 03 11:16:32 2014] [notice] Child 3444: Starting thread to listen on port 80.
+[Mon Nov 03 11:16:32 2014] [notice] Child 3444: Starting thread to listen on port 443.
+[Mon Nov 03 11:16:32 2014] [notice] Child 3444: Starting thread to listen on port 80.
+[Mon Nov 03 11:16:37 2014] [error] [client ::1] File does not exist: J:/xampplite/htdocs/Webtech/coursework/wordpress
+[Mon Nov 03 11:16:38 2014] [error] [client ::1] File does not exist: J:/xampplite/htdocs/Webtech/coursework/wordpress
+[Mon Nov 03 11:16:39 2014] [error] [client ::1] File does not exist: J:/xampplite/htdocs/Webtech/coursework/wordpress
+[Mon Nov 03 11:16:42 2014] [error] [client ::1] File does not exist: J:/xampplite/htdocs/Webtech/coursework/wordpress
+[Mon Nov 03 11:17:06 2014] [error] [client ::1] File does not exist: J:/xampplite/htdocs/Webtech/coursework/wordpress
+[Mon Nov 03 11:17:41 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 03 11:17:41 2014] [notice] Child 3444: Exit event signaled. Child process is ending.
+[Mon Nov 03 11:17:42 2014] [notice] Child 3444: Released the start mutex
+[Mon Nov 03 11:17:43 2014] [notice] Child 3444: All worker threads have exited.
+[Mon Nov 03 11:17:43 2014] [notice] Child 3444: Child process is exiting
+[Mon Nov 03 11:17:43 2014] [notice] Parent: Child process exited successfully.
+[Mon Nov 03 11:19:01 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 03 11:19:01 2014] [notice] Digest: done
+[Mon Nov 03 11:19:02 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Mon Nov 03 11:19:02 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Mon Nov 03 11:19:02 2014] [notice] Parent: Created child process 4124
+[Mon Nov 03 11:19:02 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 03 11:19:02 2014] [notice] Digest: done
+[Mon Nov 03 11:19:03 2014] [notice] Child 4124: Child process is running
+[Mon Nov 03 11:19:03 2014] [notice] Child 4124: Acquired the start mutex.
+[Mon Nov 03 11:19:03 2014] [notice] Child 4124: Starting 150 worker threads.
+[Mon Nov 03 11:19:03 2014] [notice] Child 4124: Starting thread to listen on port 443.
+[Mon Nov 03 11:19:03 2014] [notice] Child 4124: Starting thread to listen on port 80.
+[Mon Nov 03 11:19:03 2014] [notice] Child 4124: Starting thread to listen on port 443.
+[Mon Nov 03 11:19:03 2014] [notice] Child 4124: Starting thread to listen on port 80.
+[Mon Nov 03 11:44:02 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 03 11:44:02 2014] [notice] Child 4124: Exit event signaled. Child process is ending.
+[Mon Nov 03 11:44:03 2014] [notice] Child 4124: Released the start mutex
+[Mon Nov 03 11:44:04 2014] [notice] Child 4124: All worker threads have exited.
+[Mon Nov 03 11:44:04 2014] [notice] Child 4124: Child process is exiting
+[Mon Nov 03 11:44:04 2014] [notice] Parent: Child process exited successfully.
+[Mon Nov 03 11:47:07 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 03 11:47:07 2014] [notice] Digest: done
+[Mon Nov 03 11:47:08 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Mon Nov 03 11:47:08 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Mon Nov 03 11:47:08 2014] [notice] Parent: Created child process 4464
+[Mon Nov 03 11:47:08 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 03 11:47:08 2014] [notice] Digest: done
+[Mon Nov 03 11:47:09 2014] [notice] Child 4464: Child process is running
+[Mon Nov 03 11:47:09 2014] [notice] Child 4464: Acquired the start mutex.
+[Mon Nov 03 11:47:09 2014] [notice] Child 4464: Starting 150 worker threads.
+[Mon Nov 03 11:47:09 2014] [notice] Child 4464: Starting thread to listen on port 443.
+[Mon Nov 03 11:47:09 2014] [notice] Child 4464: Starting thread to listen on port 80.
+[Mon Nov 03 11:47:09 2014] [notice] Child 4464: Starting thread to listen on port 443.
+[Mon Nov 03 11:47:09 2014] [notice] Child 4464: Starting thread to listen on port 80.
+[Mon Nov 03 11:49:47 2014] [error] [client ::1] File does not exist: E:/xampplite/htdocs/favicon.ico
+[Mon Nov 03 11:49:47 2014] [error] [client ::1] File does not exist: E:/xampplite/htdocs/favicon.ico
+[Mon Nov 03 11:49:47 2014] [error] [client ::1] File does not exist: E:/xampplite/htdocs/favicon.ico
+httpd.exe: Syntax error on line 35 of C:/Users/BAL21603/Desktop/xampplite/apache/conf/httpd.conf: ServerRoot must be a valid directory
+httpd.exe: Syntax error on line 35 of C:/Users/BAL21603/Desktop/xampplite/apache/conf/httpd.conf: ServerRoot must be a valid directory
+httpd.exe: Syntax error on line 35 of C:/Users/BAL21603/Desktop/xampplite/apache/conf/httpd.conf: ServerRoot must be a valid directory
+httpd.exe: Syntax error on line 35 of C:/Users/BAL21603/Desktop/xampplite/apache/conf/httpd.conf: ServerRoot must be a valid directory
+httpd.exe: Syntax error on line 35 of E:/Temp/xampp-wordpress/apache/conf/httpd.conf: ServerRoot must be a valid directory
+[Mon Nov 03 12:58:36 2014] [warn] pid file E:/Temp/xampp-wordpress/apache/logs/httpd.pid overwritten -- Unclean shutdown of previous Apache run?
+[Mon Nov 03 12:58:36 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 03 12:58:36 2014] [notice] Digest: done
+[Mon Nov 03 12:58:36 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Mon Nov 03 12:58:36 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Mon Nov 03 12:58:36 2014] [notice] Parent: Created child process 2448
+[Mon Nov 03 12:58:37 2014] [notice] Digest: generating secret for digest authentication ...
+[Mon Nov 03 12:58:37 2014] [notice] Digest: done
+[Mon Nov 03 12:58:38 2014] [notice] Child 2448: Child process is running
+[Mon Nov 03 12:58:38 2014] [notice] Child 2448: Acquired the start mutex.
+[Mon Nov 03 12:58:38 2014] [notice] Child 2448: Starting 150 worker threads.
+[Mon Nov 03 12:58:38 2014] [notice] Child 2448: Starting thread to listen on port 443.
+[Mon Nov 03 12:58:38 2014] [notice] Child 2448: Starting thread to listen on port 80.
+[Mon Nov 03 12:58:38 2014] [notice] Child 2448: Starting thread to listen on port 443.
+[Mon Nov 03 12:58:38 2014] [notice] Child 2448: Starting thread to listen on port 80.
+[Mon Nov 03 12:59:43 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Mon Nov 03 12:59:43 2014] [notice] Child 2448: Exit event signaled. Child process is ending.
+[Mon Nov 03 12:59:44 2014] [notice] Child 2448: Released the start mutex
+[Mon Nov 03 12:59:45 2014] [notice] Child 2448: All worker threads have exited.
+[Mon Nov 03 12:59:45 2014] [notice] Child 2448: Child process is exiting
+[Mon Nov 03 12:59:45 2014] [notice] Parent: Child process exited successfully.
+[Tue Nov 04 00:14:01 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 04 00:14:01 2014] [notice] Digest: done
+[Tue Nov 04 00:14:03 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Tue Nov 04 00:14:03 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Tue Nov 04 00:14:03 2014] [notice] Parent: Created child process 1560
+[Tue Nov 04 00:14:04 2014] [notice] Digest: generating secret for digest authentication ...
+[Tue Nov 04 00:14:04 2014] [notice] Digest: done
+[Tue Nov 04 00:14:04 2014] [notice] Child 1560: Child process is running
+[Tue Nov 04 00:14:04 2014] [notice] Child 1560: Acquired the start mutex.
+[Tue Nov 04 00:14:04 2014] [notice] Child 1560: Starting 150 worker threads.
+[Tue Nov 04 00:14:04 2014] [notice] Child 1560: Starting thread to listen on port 443.
+[Tue Nov 04 00:14:04 2014] [notice] Child 1560: Starting thread to listen on port 443.
+[Tue Nov 04 00:14:04 2014] [notice] Child 1560: Starting thread to listen on port 80.
+[Tue Nov 04 00:14:04 2014] [notice] Child 1560: Starting thread to listen on port 80.
+[Tue Nov 04 00:14:30 2014] [error] [client ::1] File does not exist: F:/Temp/xampp-wordpress/htdocs/favicon.ico
+[Tue Nov 04 00:18:37 2014] [error] [client ::1] File does not exist: F:/Temp/xampp-wordpress/htdocs/mysql
+[Wed Nov 05 08:00:05 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 05 08:00:05 2014] [notice] Child 1560: Exit event signaled. Child process is ending.
+[Wed Nov 05 08:00:06 2014] [notice] Child 1560: Released the start mutex
+[Wed Nov 05 08:00:07 2014] [notice] Child 1560: All worker threads have exited.
+[Wed Nov 05 08:00:07 2014] [notice] Child 1560: Child process is exiting
+[Wed Nov 05 08:00:07 2014] [notice] Parent: Child process exited successfully.
+[Wed Nov 05 11:03:40 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 05 11:03:40 2014] [notice] Digest: done
+[Wed Nov 05 11:03:41 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Wed Nov 05 11:03:41 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Wed Nov 05 11:03:41 2014] [notice] Parent: Created child process 1556
+[Wed Nov 05 11:03:42 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 05 11:03:42 2014] [notice] Digest: done
+[Wed Nov 05 11:03:43 2014] [notice] Child 1556: Child process is running
+[Wed Nov 05 11:03:43 2014] [notice] Child 1556: Acquired the start mutex.
+[Wed Nov 05 11:03:43 2014] [notice] Child 1556: Starting 150 worker threads.
+[Wed Nov 05 11:03:43 2014] [notice] Child 1556: Starting thread to listen on port 443.
+[Wed Nov 05 11:03:43 2014] [notice] Child 1556: Starting thread to listen on port 80.
+[Wed Nov 05 11:03:43 2014] [notice] Child 1556: Starting thread to listen on port 443.
+[Wed Nov 05 11:03:43 2014] [notice] Child 1556: Starting thread to listen on port 80.
+[Wed Nov 05 11:25:34 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 05 11:25:34 2014] [notice] Child 1556: Exit event signaled. Child process is ending.
+[Wed Nov 05 11:25:35 2014] [notice] Child 1556: Released the start mutex
+[Wed Nov 05 11:25:36 2014] [notice] Child 1556: All worker threads have exited.
+[Wed Nov 05 11:25:36 2014] [notice] Child 1556: Child process is exiting
+[Wed Nov 05 11:25:36 2014] [notice] Parent: Child process exited successfully.
+httpd.exe: Syntax error on line 35 of E:/Temp/xampp-wordpress/xampp/apache/conf/httpd.conf: ServerRoot must be a valid directory
+[Wed Nov 05 11:39:47 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 05 11:39:47 2014] [notice] Digest: done
+[Wed Nov 05 11:39:47 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Wed Nov 05 11:39:47 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Wed Nov 05 11:39:48 2014] [notice] Parent: Created child process 4204
+[Wed Nov 05 11:39:48 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 05 11:39:48 2014] [notice] Digest: done
+[Wed Nov 05 11:39:49 2014] [notice] Child 4204: Child process is running
+[Wed Nov 05 11:39:49 2014] [notice] Child 4204: Acquired the start mutex.
+[Wed Nov 05 11:39:49 2014] [notice] Child 4204: Starting 150 worker threads.
+[Wed Nov 05 11:39:49 2014] [notice] Child 4204: Starting thread to listen on port 443.
+[Wed Nov 05 11:39:49 2014] [notice] Child 4204: Starting thread to listen on port 80.
+[Wed Nov 05 11:39:49 2014] [notice] Child 4204: Starting thread to listen on port 443.
+[Wed Nov 05 11:39:49 2014] [notice] Child 4204: Starting thread to listen on port 80.
+[Wed Nov 05 11:39:55 2014] [error] [client ::1] File does not exist: E:/Temp/xampp-wordpress/xampp/htdocs/wp-admin
+[Wed Nov 05 11:40:26 2014] [error] [client ::1] File does not exist: E:/Temp/xampp-wordpress/xampp/htdocs/favicon.ico
+[Wed Nov 05 11:40:54 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 05 11:40:54 2014] [notice] Child 4204: Exit event signaled. Child process is ending.
+[Wed Nov 05 11:40:55 2014] [notice] Child 4204: Released the start mutex
+[Wed Nov 05 11:40:56 2014] [notice] Child 4204: All worker threads have exited.
+[Wed Nov 05 11:40:56 2014] [notice] Child 4204: Child process is exiting
+[Wed Nov 05 11:40:56 2014] [notice] Parent: Child process exited successfully.
+[Wed Nov 05 11:41:18 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 05 11:41:18 2014] [notice] Digest: done
+[Wed Nov 05 11:41:18 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Wed Nov 05 11:41:18 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Wed Nov 05 11:41:19 2014] [notice] Parent: Created child process 1268
+[Wed Nov 05 11:41:19 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 05 11:41:19 2014] [notice] Digest: done
+[Wed Nov 05 11:41:21 2014] [notice] Child 1268: Child process is running
+[Wed Nov 05 11:41:21 2014] [notice] Child 1268: Acquired the start mutex.
+[Wed Nov 05 11:41:21 2014] [notice] Child 1268: Starting 150 worker threads.
+[Wed Nov 05 11:41:21 2014] [notice] Child 1268: Starting thread to listen on port 443.
+[Wed Nov 05 11:41:21 2014] [notice] Child 1268: Starting thread to listen on port 80.
+[Wed Nov 05 11:41:21 2014] [notice] Child 1268: Starting thread to listen on port 80.
+[Wed Nov 05 11:41:21 2014] [notice] Child 1268: Starting thread to listen on port 443.
+[Wed Nov 05 11:41:54 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 05 11:41:54 2014] [notice] Child 1268: Exit event signaled. Child process is ending.
+[Wed Nov 05 11:41:55 2014] [notice] Child 1268: Released the start mutex
+[Wed Nov 05 11:41:56 2014] [notice] Child 1268: All worker threads have exited.
+[Wed Nov 05 11:41:56 2014] [notice] Child 1268: Child process is exiting
+[Wed Nov 05 11:41:57 2014] [notice] Parent: Child process exited successfully.
+[Wed Nov 05 11:49:50 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 05 11:49:50 2014] [notice] Digest: done
+[Wed Nov 05 11:49:51 2014] [notice] Apache/2.2.14 (Win32) DAV/2 mod_ssl/2.2.14 OpenSSL/0.9.8l mod_autoindex_color PHP/5.3.1 configured -- resuming normal operations
+[Wed Nov 05 11:49:51 2014] [notice] Server built: Nov 11 2009 14:29:03
+[Wed Nov 05 11:49:51 2014] [notice] Parent: Created child process 4448
+[Wed Nov 05 11:49:52 2014] [notice] Digest: generating secret for digest authentication ...
+[Wed Nov 05 11:49:52 2014] [notice] Digest: done
+[Wed Nov 05 11:49:52 2014] [notice] Child 4448: Child process is running
+[Wed Nov 05 11:49:52 2014] [notice] Child 4448: Acquired the start mutex.
+[Wed Nov 05 11:49:52 2014] [notice] Child 4448: Starting 150 worker threads.
+[Wed Nov 05 11:49:52 2014] [notice] Child 4448: Starting thread to listen on port 443.
+[Wed Nov 05 11:49:52 2014] [notice] Child 4448: Starting thread to listen on port 80.
+[Wed Nov 05 11:49:52 2014] [notice] Child 4448: Starting thread to listen on port 443.
+[Wed Nov 05 11:49:52 2014] [notice] Child 4448: Starting thread to listen on port 80.
+[Wed Nov 05 11:50:19 2014] [notice] Parent: Received shutdown signal -- Shutting down the server.
+[Wed Nov 05 11:50:19 2014] [notice] Child 4448: Exit event signaled. Child process is ending.
+[Wed Nov 05 11:50:20 2014] [notice] Child 4448: Released the start mutex
+[Wed Nov 05 11:50:21 2014] [notice] Child 4448: All worker threads have exited.
+[Wed Nov 05 11:50:21 2014] [notice] Child 4448: Child process is exiting
+[Wed Nov 05 11:50:21 2014] [notice] Parent: Child process exited successfully.

@@ -1,0 +1,108 @@
+141009  8:11:04 [Note] Plugin 'FEDERATED' is disabled.
+141009  8:11:05  InnoDB: Started; log sequence number 0 46409
+141009  8:11:05 [Note] Event Scheduler: Loaded 0 events
+141009  8:11:05 [Note] I:\xampplite\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+141009  8:11:07 [Note] I:\xampplite\mysql\bin\mysqld.exe: Normal shutdown
+
+141009  8:11:08 [Note] Event Scheduler: Purging the queue. 0 events
+141009  8:11:08  InnoDB: Starting shutdown...
+141009  8:11:09  InnoDB: Shutdown completed; log sequence number 0 46409
+141009  8:11:09 [Note] I:\xampplite\mysql\bin\mysqld.exe: Shutdown complete
+
+141103 11:11:14 [Note] Plugin 'FEDERATED' is disabled.
+141103 11:11:15  InnoDB: Started; log sequence number 0 46409
+141103 11:11:18 [Note] Event Scheduler: Loaded 0 events
+141103 11:11:18 [Note] J:\xampplite\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+141103 11:44:06 [Note] J:\xampplite\mysql\bin\mysqld.exe: Normal shutdown
+
+141103 11:44:07 [Note] Event Scheduler: Purging the queue. 0 events
+141103 11:44:07  InnoDB: Starting shutdown...
+141103 11:44:08  InnoDB: Shutdown completed; log sequence number 0 46409
+141103 11:44:08 [Note] J:\xampplite\mysql\bin\mysqld.exe: Shutdown complete
+
+141103 11:47:04 [Note] Plugin 'FEDERATED' is disabled.
+141103 11:47:04  InnoDB: Started; log sequence number 0 46409
+141103 11:47:05 [Note] Event Scheduler: Loaded 0 events
+141103 11:47:05 [Note] E:\xampplite\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+141103 12:02:32 [Note] E:\xampplite\mysql\bin\mysqld.exe: Normal shutdown
+
+141103 12:02:33 [Note] Event Scheduler: Purging the queue. 0 events
+141103 12:02:33  InnoDB: Starting shutdown...
+141103 12:02:33  InnoDB: Shutdown completed; log sequence number 0 46409
+141103 12:02:33 [Note] E:\xampplite\mysql\bin\mysqld.exe: Shutdown complete
+
+141103 12:58:37 [Note] Plugin 'FEDERATED' is disabled.
+141103 12:58:37  InnoDB: Started; log sequence number 0 46409
+141103 12:58:37 [Note] Event Scheduler: Loaded 0 events
+141103 12:58:37 [Note] E:\Temp\xampp-wordpress\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+141103 12:59:41 [Note] E:\Temp\xampp-wordpress\mysql\bin\mysqld.exe: Normal shutdown
+
+141103 12:59:42 [Note] Event Scheduler: Purging the queue. 0 events
+141103 12:59:42  InnoDB: Starting shutdown...
+141103 12:59:42  InnoDB: Shutdown completed; log sequence number 0 46409
+141103 12:59:42 [Note] E:\Temp\xampp-wordpress\mysql\bin\mysqld.exe: Shutdown complete
+
+141104  0:14:10 [Note] Plugin 'FEDERATED' is disabled.
+141104  0:14:11  InnoDB: Started; log sequence number 0 46409
+141104  0:14:11 [Note] Event Scheduler: Loaded 0 events
+141104  0:14:11 [Note] F:\Temp\xampp-wordpress\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+141105  7:59:59 [Note] F:\Temp\xampp-wordpress\mysql\bin\mysqld.exe: Normal shutdown
+
+141105  8:00:00 [Note] Event Scheduler: Purging the queue. 0 events
+141105  8:00:00  InnoDB: Starting shutdown...
+141105  8:00:01  InnoDB: Shutdown completed; log sequence number 0 46409
+141105  8:00:01 [Note] F:\Temp\xampp-wordpress\mysql\bin\mysqld.exe: Shutdown complete
+
+141105 11:03:42 [Note] Plugin 'FEDERATED' is disabled.
+141105 11:03:42  InnoDB: Started; log sequence number 0 46409
+141105 11:03:43 [Note] Event Scheduler: Loaded 0 events
+141105 11:03:43 [Note] E:\Temp\xampp-wordpress\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+141105 11:25:29 [Note] E:\Temp\xampp-wordpress\mysql\bin\mysqld.exe: Normal shutdown
+
+141105 11:25:30 [Note] Event Scheduler: Purging the queue. 0 events
+141105 11:25:30  InnoDB: Starting shutdown...
+141105 11:25:31  InnoDB: Shutdown completed; log sequence number 0 46409
+141105 11:25:31 [Note] E:\Temp\xampp-wordpress\mysql\bin\mysqld.exe: Shutdown complete
+
+141105 11:39:48 [Note] Plugin 'FEDERATED' is disabled.
+141105 11:39:49  InnoDB: Started; log sequence number 0 46409
+141105 11:39:49 [Note] Event Scheduler: Loaded 0 events
+141105 11:39:49 [Note] E:\Temp\xampp-wordpress\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+141105 11:40:50 [Note] E:\Temp\xampp-wordpress\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+141105 11:40:51 [Note] Event Scheduler: Purging the queue. 0 events
+141105 11:40:52  InnoDB: Starting shutdown...
+141105 11:40:53  InnoDB: Shutdown completed; log sequence number 0 46409
+141105 11:40:53 [Note] E:\Temp\xampp-wordpress\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+141105 11:41:19 [Note] Plugin 'FEDERATED' is disabled.
+141105 11:41:19  InnoDB: Started; log sequence number 0 46409
+141105 11:41:21 [Note] Event Scheduler: Loaded 0 events
+141105 11:41:21 [Note] E:\Temp\xampp-wordpress\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+141105 11:41:52 [Note] E:\Temp\xampp-wordpress\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+141105 11:41:53 [Note] Event Scheduler: Purging the queue. 0 events
+141105 11:41:53  InnoDB: Starting shutdown...
+141105 11:41:53  InnoDB: Shutdown completed; log sequence number 0 46409
+141105 11:41:53 [Note] E:\Temp\xampp-wordpress\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
+141105 11:49:50 [Note] Plugin 'FEDERATED' is disabled.
+141105 11:49:51  InnoDB: Started; log sequence number 0 46409
+141105 11:49:51 [Note] Event Scheduler: Loaded 0 events
+141105 11:49:51 [Note] E:\xampp-wordpress\xampp\mysql\bin\mysqld.exe: ready for connections.
+Version: '5.1.41'  socket: ''  port: 3306  Source distribution
+141105 11:50:16 [Note] E:\xampp-wordpress\xampp\mysql\bin\mysqld.exe: Normal shutdown
+
+141105 11:50:17 [Note] Event Scheduler: Purging the queue. 0 events
+141105 11:50:17  InnoDB: Starting shutdown...
+141105 11:50:18  InnoDB: Shutdown completed; log sequence number 0 46409
+141105 11:50:18 [Note] E:\xampp-wordpress\xampp\mysql\bin\mysqld.exe: Shutdown complete
+
