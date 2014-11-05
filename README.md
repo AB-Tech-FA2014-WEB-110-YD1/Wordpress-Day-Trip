@@ -12,7 +12,9 @@ Wordpress-Day-Trip
 9. Type 'x' and press Enter.
 10. Click the 'Start' buttons beside both Apache and MySql.
 11. Double-Click the shortcut for the Wordpress Login Page and use:
-    Username: user
+ 
+    Username: user  
     Password: wordpress
+
 
 Ta-Da!!!
