@@ -1,2 +1,2 @@
-Wordpres-Day-Trip
+Wordpress-Day-Trip
 =================
