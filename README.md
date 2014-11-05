@@ -1,9 +1,9 @@
 Wordpress-Day-Trip
 =================
 
-1. Download 'xampp-wordpress.zip'.
-2. Extract to flash drive.
-3. Run shortcunt to 'xampp-control' shortcut.
+1. Download 'Wordpress-Day-Trip-master.zip'.
+2. Extract 'xampp-wordpress' folder to flash drive.
+3. Run batch file 'xampp-control.bat' inside the 'xampp-wordpress' folder.
 4. Click the 'Start' buttons beside both Apache and MySql.
 5. If they don't start press the 'Setup' button.
 6. Type 'y' and hit Enter.
