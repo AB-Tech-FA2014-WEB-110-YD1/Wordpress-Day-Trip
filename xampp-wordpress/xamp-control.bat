@@ -1,1 +1,1 @@
-Start "%dp0xampp\xampp-control.bat"
+start "xampp-control.exe" "%~dp0xampp\xampp-control.exe"
